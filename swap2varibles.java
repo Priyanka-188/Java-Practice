@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//  Write a Java program to swap two variables.
 public class swap2varibles {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
