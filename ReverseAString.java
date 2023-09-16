@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Write a Java program to compute the distance between two points
 public class ReverseAString {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
