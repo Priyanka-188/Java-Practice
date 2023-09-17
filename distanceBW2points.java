@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-class distanceBW2points{
-    public static void main(Strings[] args){
+public class distanceBW2points{
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter coordinates of first point : ");
         double x1, y1 ;
