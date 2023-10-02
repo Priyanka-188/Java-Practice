@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 // Write a Java recursive method to find the greatest common divisor (GCD) or HCF of two numbers.
 // In programming we calculate GCD using Euclidean  method.
