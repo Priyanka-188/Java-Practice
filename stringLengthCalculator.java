@@ -2,12 +2,14 @@
 import java.util.Scanner;
 class stringLengthCalculator{
     public static int lengthCalculate(String str){
+        // // Base case: if the string is empty, the length is 0
         if (str.isEmpty()){
             return 0;
         }
-        else{
-            return 1 + lengthCalculate(str.substring(1));
-        }
+        // Recursive case: remove the first character of the
+        // string and recursively call the method
+        // with the remaining substring, and add 1 to the length
+        return 1 + lengthCalculate(str.substring(1));
 
     }
     public static void main(String[] args){
