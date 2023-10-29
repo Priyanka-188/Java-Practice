@@ -18,3 +18,13 @@ public class twelve {
     }
 }
 }
+
+/*
+ * 
+ Enter number of rows: 5
+A
+AB
+ABC
+ABCD
+ABCDE
+ */
