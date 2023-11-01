@@ -1,6 +1,9 @@
 package KnowMaths;
 import java.util.Scanner;
 
+//Problem Statement: Given an integer N, write a program to count the number of digits in N.
+
+
 public class one {
 
     public static int countDigits(int n){
