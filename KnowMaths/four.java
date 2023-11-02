@@ -21,11 +21,11 @@ public class four {
         return count;
     }
     public static int sum_of_digits(int n ){
-        int legth = no_of_digits(n);
+        int length = no_of_digits(n);
         int sum=0;
         while(n!=0){
             int digit = n%10;
-            sum = sum + digit;
+            sum += Math.pow(digit,length);
             n=n/10;
         }
         return sum;
