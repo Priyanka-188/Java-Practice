@@ -1,5 +1,5 @@
 package Recursion;
-//Print 1 to N using Recursion
+
 
 import java.util.Scanner;
 
