@@ -1,5 +1,5 @@
 package Arrays;
-//Find second largest and largest element in a given array
+// Given an array, find the second smallest and second largest element in the array. Print ‘-1’ in the event that either of them doesn’t exist.
 
 public class three {
     public static void main(String[] args){
