@@ -1,4 +1,5 @@
 package Arrays;
+//Find second largest and largest element in a given array
 
 public class three {
     public static void main(String[] args){
